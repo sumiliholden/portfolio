@@ -9,7 +9,7 @@ const Footer = () => {
               fontFamily: "'Bricolage Grotesque', sans-serif",
             }}
           >
-            holden.dev
+            dev.holden
           </p>
           <p className="text-sm text-gray-500 mt-1">
             Full Stack Developer · Davao City, Philippines
@@ -17,8 +17,14 @@ const Footer = () => {
         </div>
         <div className="flex gap-6 text-sm">
           {[
-            { label: 'GitHub', href: 'https://github.com' },
-            { label: 'LinkedIn', href: 'https://linkedin.com' },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/sumiliholden',
+            },
+            {
+              label: 'LinkedIn',
+              href: 'https://linkedin.com/in/holden-jay-sumili/',
+            },
             { label: 'Email', href: 'mailto:sumiliholden@gmail.com' },
           ].map(({ label, href }) => (
             <a

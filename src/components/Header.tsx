@@ -24,7 +24,7 @@ const Header = () => {
               fontFamily: "'Bricolage Grotesque', sans-serif",
             }}
           >
-            holden.dev
+            dev.holden
           </span>
           <span className="tag hidden sm:inline-flex items-center gap-1.5">
             <span
