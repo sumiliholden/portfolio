@@ -164,7 +164,7 @@ body {
 }
 
 /* ============================ COGNITO FORM ============================ */
-header{
+.cog-form__container header{
   display: none !important;
 }
 .contact-form-shell {
