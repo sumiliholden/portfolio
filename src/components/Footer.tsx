@@ -12,7 +12,7 @@ const Footer = () => {
             dev.holden
           </p>
           <p className="text-sm text-gray-500 mt-1">
-            Full Stack Developer · Davao City, Philippines
+            Full Stack Developer · Philippines
           </p>
         </div>
         <div className="flex gap-6 text-sm">
